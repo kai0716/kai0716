@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **kevin-zhang98@hotmail.com**
 
+- If you would see more of my projects, please contact me**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kaijian-zhang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaijian-zhang/" height="30" width="40" /></a>
