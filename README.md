@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kevin-zhang98@hotmail.com**
 
-- If you would see more of my projects, please contact me**
+- If you would see more of my projects, please contact me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
